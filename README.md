@@ -1,3 +1,3 @@
 # EBAC
 
-Destinado ao curso do EBAC. 
+Destinado a jornada DEV do EBAC. 
